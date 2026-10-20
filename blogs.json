@@ -897,6 +897,15 @@
             "x_url": "https://x.com/wattmaller1"
           },
           {
+            "title": "Cesar Gimenes' Blog",
+            "author": "Cesar Gimenes",
+            "site_url": "https://crg.eti.br",
+            "feed_url": "https://crg.eti.br/tags/swift/index.xml",
+            "x_url": "https://x.com/crgimenes",
+            "github_url": "https://github.com/crgimenes",
+            "linkedin_url": "https://www.linkedin.com/in/cgimenes/"
+          },
+          {
             "title": "Charlie Chapman’s Blog",
             "author": "Charlie Chapman",
             "site_url": "https://charliemchapman.com/",
