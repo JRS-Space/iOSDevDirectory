@@ -4989,6 +4989,15 @@
             "site_url": "https://www.zoesmith.io/",
             "feed_url": "https://www.zoesmith.io/index.xml",
             "x_url": "https://x.com/zoejessica"
+          },
+          {
+            "title": "Sai Ram Kotha",
+            "author": "Sai Ram Kotha",
+            "site_url": "https://sairamkotha.hashnode.dev",
+            "feed_url": "https://sairamkotha.hashnode.dev/rss.xml",
+            "x_url": "https://x.com/sairamkotha",
+            "github_url": "https://github.com/sairamkotha",
+            "linkedin_url": "https://www.linkedin.com/in/sairamkotha"
           }
         ]
       },
