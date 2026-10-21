@@ -175,6 +175,14 @@
             "x_url": "https://x.com/adiki91"
           },
           {
+            "title": "Ahmed Komsan's Blog",
+            "author": "Ahmed Komsan",
+            "site_url": "https://ahmedkomsan.com/posts/",
+            "feed_url": "https://ahmedkomsan.com/posts/index.xml",
+            "github_url": "https://github.com/Ahmed-Komsan",
+            "linkedin_url": "https://www.linkedin.com/in/ahmed-komsan/"
+          },
+          {
             "title": "Airspeed Velocity",
             "author": "Ben Cohen",
             "site_url": "https://airspeedvelocity.net",
