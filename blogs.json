@@ -5754,6 +5754,13 @@
             "x_url": "https://x.com/novoda"
           },
           {
+            "title": "Nuticast Blog",
+            "author": "Taha Yasin Kucuk",
+            "site_url": "https://www.nuticast.com/blog",
+            "feed_url": "https://www.nuticast.com/blog/rss.xml",
+            "github_url": "https://github.com/webwarrior06"
+          },
+          {
             "title": "objc.io",
             "author": "objc.io",
             "site_url": "https://www.objc.io/blog/",
