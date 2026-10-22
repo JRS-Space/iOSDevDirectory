@@ -5671,6 +5671,13 @@
             "x_url": "https://x.com/lickability"
           },
           {
+            "title": "macbox Guides",
+            "author": "Abhishek Ray",
+            "site_url": "https://macbox.build/guides/",
+            "feed_url": "https://macbox.build/guides/rss.xml",
+            "github_url": "https://github.com/opslane"
+          },
+          {
             "title": "Manzanita Blog",
             "author": "Manzanita",
             "site_url": "https://manzanita.run/blog/",
