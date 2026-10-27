@@ -4981,6 +4981,13 @@
             "mastodon_url": "https://sigmoid.social/@yonomitt"
           },
           {
+            "title": "Yorben Vander Sleyen’s Blog",
+            "author": "Yorben Vander Sleyen",
+            "site_url": "https://yorben.me",
+            "feed_url": "https://yorben.me/feed.xml",
+            "github_url": "https://github.com/Yvsleyen00941"
+          },
+          {
             "title": "YoSwift",
             "author": "Manoj Karki",
             "site_url": "https://thecleaningartist.com/",
